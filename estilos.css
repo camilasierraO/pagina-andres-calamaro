@@ -1,0 +1,72 @@
+body{
+    background: #FFCF96;
+    padding: 3rem 0 3rem 0;
+    font-family: 'Comic Neue', cursive;
+    color:#263238;
+    font-weight: 600;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.titulo{
+    text-align: center;
+    margin-bottom: 5rem;
+    color: #8989E8;
+    font-family: 'Lobster', cursive;
+
+}
+h2{
+    text-align: center;
+    color: #FF76AB;
+    font-family: 'Lobster', cursive;
+}
+.imagenes{
+    text-align: center;
+    
+}
+
+.parrafo{
+    line-height: 1.5rem;
+    font-size: 1rem;
+    /*margin-top: 3rem;*/
+}
+
+.selection{
+    margin-bottom: 5rem;
+
+}
+ .selection h2{
+     margin-bottom: 3rem;
+ }
+
+ .container{
+     width: 80%;
+     margin: 0 auto;
+     padding: 4%;
+     background:#F0F4C3;
+     border-radius: 1.5rem;
+ }
+
+ a{
+     text-decoration: none; 
+ }
+  .link-center{
+      width: 100%;
+      text-align: center;
+  }
+  .selection ul{
+      text-align: center;
+      line-height: 2rem;
+      list-style:none;
+  }
+  .menu{
+      display: flex;
+      justify-content: space-around;
+      list-style: none;
+      position: relative; 
+      top:-30px;
+      background: #8989E8;
+      padding: 10px;
+      
+ 
